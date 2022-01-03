@@ -1,0 +1,10 @@
+
+.wbox_slider > p {
+    text-align: center;
+    color: #f8f8f8;
+}
+.wbox_slider {
+    background-color: #424242;
+    padding: 1rem 0;
+    height: 150px;
+}

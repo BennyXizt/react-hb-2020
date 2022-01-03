@@ -1,0 +1,11 @@
+
+.header 
+{
+    background-color: #424242;
+    height: 3.125rem;
+}
+.body {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 5rem;
+}
