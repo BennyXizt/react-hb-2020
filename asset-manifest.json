@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-hb-2020/static/css/main.406da48d.css",
+    "main.js": "/react-hb-2020/static/js/main.c2b900bf.js",
+    "static/media/Me.mp4": "/react-hb-2020/static/media/Me.5e9f4aac96a7f877bcc2.mp4",
+    "static/media/YuriyAndFrogs.mp4": "/react-hb-2020/static/media/YuriyAndFrogs.4d5cabf5edc2d2cd6a69.mp4",
+    "static/media/fiolet-romantic.mp3": "/react-hb-2020/static/media/fiolet-romantic.a11bf257ab9f9890f750.mp3",
+    "static/media/trevor_daniels-falling.mp3": "/react-hb-2020/static/media/trevor_daniels-falling.4f072c7286cd4cbab65c.mp3",
+    "static/media/100reason.mp3": "/react-hb-2020/static/media/100reason.625c910a7200fdc63e90.mp3",
+    "static/media/knot.png": "/react-hb-2020/static/media/knot.162c5a2b3aa3f8b74dc2.png",
+    "static/media/happy_birthday.mp3": "/react-hb-2020/static/media/happy_birthday.cab4d9d9e5c98e734283.mp3",
+    "index.html": "/react-hb-2020/index.html",
+    "main.406da48d.css.map": "/react-hb-2020/static/css/main.406da48d.css.map",
+    "main.c2b900bf.js.map": "/react-hb-2020/static/js/main.c2b900bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.406da48d.css",
+    "static/js/main.c2b900bf.js"
+  ]
+}
